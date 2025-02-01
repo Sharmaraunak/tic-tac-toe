@@ -1,0 +1,13 @@
+
+.square-button{
+  height: 2rem;
+  width: 2rem;
+  background: white;
+  border: 1px solid black;
+}
+
+.tac-row{
+  display: flex;
+  flex-direction: row;
+  gap: 0rem
+}
